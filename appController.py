@@ -15,8 +15,6 @@ text_surface = my_font.render('5V', False, (0, 0, 0))
 
 
 #controle variaveis
-passar = 3
-pause = False
 running = True
 
 r = getData(Arduino)
